@@ -42,7 +42,7 @@
         <mybatis-plus-boot.version>3.4.3.4</mybatis-plus-boot.version>
         <mybatis-generator.version>1.4.0</mybatis-generator.version>
 
-        <hutool.version>5.7.17</hutool.version>
+        <hutool.version>5.8.23</hutool.version>
         <knife4j.version>2.0.8</knife4j.version>
         <activiti.version>5.22.0</activiti.version>
         <springfox-swagger.version>3.0.0</springfox-swagger.version>
